@@ -1,0 +1,16 @@
+{
+  "name": "warsawjs-5",
+  "version": "1.0.0",
+  "description": "WarsawJs #5 Workshop chat ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Łukasz Pawełczak",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^1.7.3",
+    "socket.io-client": "^1.7.3",
+    "uuid": "^3.0.1"
+  }
+}
